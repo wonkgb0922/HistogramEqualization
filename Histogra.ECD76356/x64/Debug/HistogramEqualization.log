@@ -1,0 +1,29 @@
+﻿  HistogramEqualizationDlg.cpp
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(247,45): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(298,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(299,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(302,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(303,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(306,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(307,38): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(328,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+D:\Programming\대딩\HistogramEqualization\HistogramEqualizationDlg.cpp(349,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  (소스 파일 '/HistogramEqualizationDlg.cpp'을(를) 컴파일하는 중)
+  
+  HistogramEqualization.vcxproj -> D:\Programming\대딩\HistogramEqualization\x64\Debug\HistogramEqualization.exe
